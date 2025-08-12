@@ -21,7 +21,7 @@ An **automated pipeline** to parse a `.docx` file containing base questions, gen
 HighScores_Assignment/
 │
 ├── input/
-│   └── base_questions.docx      # Your source questions file
+│   └── base_questions.docx      # Source questions file
 │
 ├── output/
 │   ├── parsed.json              # Extracted raw text & images from .docx
@@ -145,7 +145,7 @@ If you want AI-generated variations:
 ---
 
 ## 🏆 Credits
-- 💻 Developed with **Python** & ❤️
+- 💻 Developed with **Python** 
 - 📚 Uses:
   - [`python-docx`](https://python-docx.readthedocs.io/)
   - [`Pillow`](https://python-pillow.org/)
@@ -153,4 +153,11 @@ If you want AI-generated variations:
 
 ---
 
-**🚀 Happy Question Generating!**
+---
+
+## 👨‍💻 Author
+- GitHub: [@hishu-kmd04](https://github.com/hishu-kmd04)
+- Email: `hishankmd12@gmail.com`
+
+---
+
