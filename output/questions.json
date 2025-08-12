@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "title": "Uniform Color Combinations",
+      "description": "Compute the number of different uniform combinations from given options.",
+      "question": "Each student must wear one shirt and one pair of pants. There are 4 shirt colors: Blue, Green, Gray, White and 3 pants colors: Black, Khaki, Navy. How many different uniforms are possible?",
+      "instruction": "Select the best answer.",
+      "difficulty": "easy",
+      "order": 1,
+      "options": [
+        "12",
+        "11",
+        "13",
+        "24"
+      ],
+      "correct_answer": "12",
+      "explanation": "Number of combinations = 4 * 3 = 12.",
+      "subject": "Quantitative Math",
+      "unit": "Numbers and Operations",
+      "topic": "Computation with Whole Numbers",
+      "plusmarks": 1
+    },
+    {
+      "title": "Packed Spheres in a Rectangular Box",
+      "description": "Find the dimensions of a rectangular box tightly holding a pack of spheres.",
+      "question": "The top view of a rectangular package of 6 tightly packed balls is shown. If each ball has a radius of 3 centimeters, which of the following are closest to the dimensions, in centimeters, of the rectangular package?",
+      "instruction": "Choose the best option.",
+      "difficulty": "moderate",
+      "order": 2,
+      "options": [
+        "2 \\times 3 \\times 6",
+        "6 \\times 12 \\times 18",
+        "2 \\times 4 \\times 6",
+        "12 \\times 24 \\times 36",
+        "18 \\times 24 \\times 36"
+      ],
+      "correct_answer": "6 \\times 12 \\times 18",
+      "explanation": "Constructed variant; the arrangement chosen gives the corresponding bounding box dimensions.",
+      "subject": "Quantitative Math",
+      "unit": "Geometry and Measurement",
+      "topic": "Packing / Coordinate Geometry",
+      "plusmarks": 1
+    }
+  ]
+}
