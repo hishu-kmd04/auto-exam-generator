@@ -1,16 +1,3 @@
-```
-  _    _ _       _   _                 
- | |  | (_)     | | (_)                
- | |  | |_  __ _| |_ _  ___  _ __  ___ 
- | |  | | |/ _` | __| |/ _ \| '_ \/ __|
- | |__| | | (_| | |_| | (_) | | | \__ \
-  \____/|_|\__,_|\__|_|\___/|_| |_|___/
-                                       
-        📝 Auto Question Paper Generator
-```
-
----
-
 # 📝 Auto Question Paper Generator
 
 An **automated pipeline** to parse a `.docx` file containing base questions, generate new multiple-choice questions (MCQs) using either **template-based** or **AI-based (ChatGPT)** methods, create related diagrams/images, and assemble everything into a **final formatted Word document**.
